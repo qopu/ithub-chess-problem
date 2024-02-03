@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IThubChessProblem", "IThubChessProblem\IThubChessProblem.csproj", "{ECBC037B-8A7C-4CBB-A763-F16E8EA9BB62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IThubChessProblemUnitTests", "IThubChessProblemUnitTests\IThubChessProblemUnitTests.csproj", "{7B1284AB-1D27-46D1-A4EC-CC49D6C0BE17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECBC037B-8A7C-4CBB-A763-F16E8EA9BB62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECBC037B-8A7C-4CBB-A763-F16E8EA9BB62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECBC037B-8A7C-4CBB-A763-F16E8EA9BB62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECBC037B-8A7C-4CBB-A763-F16E8EA9BB62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B1284AB-1D27-46D1-A4EC-CC49D6C0BE17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B1284AB-1D27-46D1-A4EC-CC49D6C0BE17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B1284AB-1D27-46D1-A4EC-CC49D6C0BE17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B1284AB-1D27-46D1-A4EC-CC49D6C0BE17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
